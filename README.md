@@ -29,7 +29,7 @@
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 
 <p align="center">  
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/linked-in-alt.svg" alt="linkedin" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/bawantha-malshan-935a8a239" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/linked-in-alt.svg" alt="linkedin" height="50" width="50" /></a>
 <a href="https://www.facebook.com/bawantha.malshan.90?mibextid=JRoKGi" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/facebook.svg" alt="facebook" height="50" width="50" /></a>
 <a href="https://www.instagram.com/__.ceylon_walker.__?igsh=MTdyeGg2ZWxpMzVreg==" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/instagram.svg" alt="instergram" height="50" width="50" /></a>
 </p>
